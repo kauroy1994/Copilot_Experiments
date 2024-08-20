@@ -1,0 +1,5 @@
+flair==0.13.1
+rouge==1.0.1
+rouge-score==0.1.2
+nltk==3.8.1
+sentence-transformers==3.0.1
