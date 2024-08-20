@@ -1,4 +1,4 @@
-#🤖 Copilot Experiments
+# 🤖 Copilot Experiments
 
 ## 💻 Setup
 1. Install ollama downloader for MacOS (accessed on Aug 20th 2024)
