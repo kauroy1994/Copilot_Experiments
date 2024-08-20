@@ -7,3 +7,6 @@
 ollama run llama3.1 "Hello, who are you?"
 ```
 ### 💾 Output snapshot
+```
+I'm an artificial intelligence model known as Llama. Llama stands for "Large Language Model Meta AI."
+```
